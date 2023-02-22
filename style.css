@@ -1,0 +1,44 @@
+.baslik {color: black;
+        font-size:50px ;
+        font-style: italic;
+        font-family:'Times New Roman', Times, serif;
+        text-transform: uppercase;
+}
+
+.text-aqua { color: aqua;
+        font-size: 60px;
+        text-transform: uppercase;
+
+}
+
+.zindanp { color: black;
+        font-size: 18px;
+        font-weight: bolder;
+        
+}
+
+.zindan2baslik {color:aqua ;
+                font-style: oblique;
+                font-weight:bolder;
+                font-size: 45px;
+
+}
+
+.zindanbaslik {color: red;
+            font-style:oblique;
+            font-weight:900;
+            margin:auto;
+
+}
+
+.text-aqua {color: red;
+    font-style:oblique;
+    font-weight:bolder;
+    font-size:40px;
+
+}
+
+.linkbasligi { color:rebeccapurple;
+
+}
+
